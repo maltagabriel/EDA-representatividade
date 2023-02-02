@@ -11,14 +11,17 @@ Quanto à cor de pele, percebi que é o dado mais defasado do banco de dados, se
 Também percebi que existem, no nosso banco de dados, mais heróis de pele azul (23), vermelha (15), verde (30) e branca (30) do que heróis de pele preta (13). O que considero ser um retrato da subrrepresentação da população negra nas mídias convencionais.
 
 A partir dos dados dos scores, elaborei um gráfico comparativo entre scores médios de heróis de pele preta e heróis de pele branca. Me chamou a atenção o fato de que em média os heróis negros são mais fortes porém menos inteligentes do que os heróis brancos, acredito que tal dado corrobora com o estereótipo do negro como ser animalesco e bruto. As médias foram calculadas usando a biblioteca Numpy e os gráficos elaborado com a biblioteca Matplotlib.
+![Score_skin_color](https://user-images.githubusercontent.com/64297513/216431817-580e511b-bbe0-4459-9437-dc7553a10591.png)
 
 <h2>Gênero</h2>
  Quanto ao gênero, também existe uma subrrepresentação feminina com apenas 335 heroínas no total de 1450.
  
  Além disso os scores médios são bem discrepantes, como podemos ver no gráfico a seguir:
+![Score_gender](https://user-images.githubusercontent.com/64297513/216431937-2834ed2d-e3d3-4872-a887-d4083537f787.png)
 
  Também elaborei um gráfico para visualizar a evolução histórica da participação feminina no conjunto de heróis e notei que a partir de 1970 começam a surgir mais novas heroínas:
- 
+ ![Women_appearance](https://user-images.githubusercontent.com/64297513/216431885-2da713e7-8a56-492b-b0f6-d070fbdcf81d.png)
+
  Os dados do surgimento de novas heroínas ao longo do tempo foi captado através da busca por numerais maiores que 1900 e menores que 2022 presentes na coluna "first\_appearance" do banco de dados. Tal busca se deu através da biblioteca Spacy. Entre as 335 heroínas, 88 tinham o ano da primeira aparição.
 
 <h2>Sexualidade</h3>
