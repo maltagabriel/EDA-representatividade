@@ -1,7 +1,6 @@
 <h1>Análise Exploratória de Dados</h1>
 
-Compartilho um exercício de EDA onde avaliei a representação das comunidades feminina, negra e LGBT no banco de dados do Kaggle contedo 1450 heróis e heroínas. O conjunto dos dados está disponível no endereço:
-\href{https://www.kaggle.com/datasets/jonathanbesomi/superheroes-nlp-dataset}{https://www.kaggle.com/datasets/jonathanbesomi/superheroes-nlp-dataset}
+Compartilho um exercício de EDA onde avaliei a representação das comunidades feminina, negra e LGBT no banco de dados do Kaggle contedo 1450 heróis e heroínas. O conjunto dos dados está disponível no endereço: https://www.kaggle.com/datasets/jonathanbesomi/superheroes-nlp-dataset
 
 Observamos a questão da representatividade com foco em gênero, cor de pele e sexualidade, para cada um dos três aspectos foram utilizadas abordagens diferentes de análise.
 
