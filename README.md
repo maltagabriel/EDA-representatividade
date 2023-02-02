@@ -35,6 +35,5 @@ A partir dos dados dos scores, elaborei um gráfico comparativo entre scores mé
 Da mesma forma conferimos a informação da sexualidade dos heróis cuja história contém a palavra 'gay'. Captain Stingaree e The Ray (CW) são de fato gays como fica claro nos trechos presentes em suas histórias:
 "Captain Stingaree was later revealed to be gay, and in a relationship with The Cavalier."; e "Ray decided to come out as gay to his parents before departing to Earth-X to face Overgirl.". Por outro lado, a história
 de Silk Spectre contém a palvra gay mas em referência a outro personagem. A menção à palavra 'gay' na história de Kick-Ass é para contar quando o herói se passou por gay para se aproximar da garota que era interessado
-# e na história de Northstar para descrever seus inimigos que eram anti-mutante e anti-gay.
  
 Apenas 4 heróis LGBT num banco de 1450 confirma que há uma subrrepresentação da comunidade no campo das mídias de heróis.
