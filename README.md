@@ -1,6 +1,6 @@
 <h1>KDD com os hérois e heroínas da Kaggle</h1>
 
-Compartilho um exercício de EDA onde avaliei a representação das comunidades feminina, negra e LGBT no banco de dados do Kaggle contedo 1450 heróis e heroínas. O conjunto dos dados está disponível no endereço: https://www.kaggle.com/datasets/jonathanbesomi/superheroes-nlp-dataset
+Compartilho um exercício onde avaliei a representação das comunidades feminina, negra e LGBT no banco de dados do Kaggle contedo 1450 heróis e heroínas. O conjunto dos dados está disponível no endereço: https://www.kaggle.com/datasets/jonathanbesomi/superheroes-nlp-dataset
 
 As bibliotecas usadas para a análise foram: math, pandas, numpy, spacy, nltk e matplotlib.
 
